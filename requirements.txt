@@ -9,3 +9,5 @@ scikit-learn
 theano
 xmltodict
 numba
+jupyter
+python-graphviz
